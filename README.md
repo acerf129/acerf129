@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @acerf129
 - 👀 I’m interested in Sports,Movies.
-- 🌱 I’m currently learning Front-End Techniques.
-- 💞️ I’m looking to collaborate on Jobs in UK
+- 🌱 I’m currently learning Front End,Back End Techniques.
+- 💞️ I’m looking to collaborate on Jobs in TW,UK
 - 📫 How to reach me ...
 
 <!---
